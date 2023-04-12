@@ -2,7 +2,7 @@
 //  main.cpp
 //  Momo project
 //
-//  Created by Haruna Iddrisu on 08/04/2023.
+//  Created by Haruna Illiasu on 08/04/2023.
 //  UEB3207522
 //
 
